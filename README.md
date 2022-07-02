@@ -25,9 +25,13 @@ Create an application that can track transactions without internet or data conne
 ## Built With
 * JavaScript
 * NoSQL
+* Mongoose
 
 ---
 
 ## Process
 
-* 
+* planned out layout of code
+* created github repo
+* cloned starter code
+* referenced module code and lessons
