@@ -16,9 +16,6 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ---
 
-# Challenge 15
-https://git.heroku.com/challenge-15.git
-
 ## Purpose
 Create an application that can track transactions without internet or data connection for travelers.
 
@@ -40,3 +37,6 @@ Create an application that can track transactions without internet or data conne
 * referenced module code and lessons
 * ran and tested code, no issues
 * deployed to Heroku
+
+## Deployed Site
+https://git.heroku.com/challenge-15.git
