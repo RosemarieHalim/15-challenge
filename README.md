@@ -17,7 +17,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 ---
 
 # Challenge 15
-![GIF](dist/demo.gif)
+
 
 ## Purpose
 Create an application that can track transactions without internet or data connection for travelers.
@@ -26,6 +26,9 @@ Create an application that can track transactions without internet or data conne
 * JavaScript
 * NoSQL
 * Mongoose
+* IndexedDB
+* Node.js
+* PWA
 
 ---
 
@@ -35,3 +38,5 @@ Create an application that can track transactions without internet or data conne
 * created github repo
 * cloned starter code
 * referenced module code and lessons
+* ran and tested code, no issues
+* deployed to Heroku
