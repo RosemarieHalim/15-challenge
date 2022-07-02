@@ -16,6 +16,8 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ---
 
+![alt text](dist/screenshot.JPG)
+
 ## Purpose
 Create an application that can track transactions without internet or data connection for travelers.
 
