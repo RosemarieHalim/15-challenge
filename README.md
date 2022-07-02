@@ -24,6 +24,7 @@ Create an application that can track transactions without internet or data conne
 
 ## Built With
 * JavaScript
+* NoSQL
 
 ---
 
