@@ -1,4 +1,4 @@
-#   Challenge 15 - Social Network API
+#   Challenge 15 - Budget Tracker
 
 ##  User Story
 
@@ -17,7 +17,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 ---
 
 # Challenge 15
-
+https://git.heroku.com/challenge-15.git
 
 ## Purpose
 Create an application that can track transactions without internet or data connection for travelers.
